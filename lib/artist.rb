@@ -4,3 +4,6 @@ class Artist
     @name = name
   end
 end
+
+
+rihanna = Artist.new("Rihanna")
