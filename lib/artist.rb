@@ -10,4 +10,4 @@ end
 
 #artist = Artist.new("Beyonce")
 
-artist.name
+#artist.name
