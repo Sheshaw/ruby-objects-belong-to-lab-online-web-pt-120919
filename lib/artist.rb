@@ -9,3 +9,5 @@ end
 
 
 rihanna = Artist.new("Rihanna")
+
+rihanna.name
