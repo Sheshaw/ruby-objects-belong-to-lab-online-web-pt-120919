@@ -8,6 +8,6 @@ class Artist
 end
 
 
-artist_1 = Artist.new("Rihanna")
+artist_1 = Artist.new("Beyonce")
 
 artist_1.name
